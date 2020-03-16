@@ -1,6 +1,6 @@
 {
-  "name": "ra-language-korean",
-  "version": "1.0.0",
+  "name": "@spectrum/ra-language-korean",
+  "version": "0.0.1",
   "description": "Korean Messages for React-Admin",
   "main": "index.js",
   "repository": {

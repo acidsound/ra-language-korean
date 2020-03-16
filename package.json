@@ -1,0 +1,23 @@
+{
+  "name": "ra-language-korean",
+  "version": "1.0.0",
+  "description": "Korean Messages for React-Admin",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acidsound/ra-language-korean.git"
+  },
+  "keywords": [
+    "react",
+    "react-admin",
+    "admin-on-rest",
+    "translation",
+    "korean"
+  ],
+  "author": "spectrum <spectrick@gmail.com> (https://spectrumdig.blogspot.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acidsound/ra-language-korean/issues"
+  },
+  "homepage": "https://github.com/acidsound/ra-language-korean#readme"
+}

@@ -9,7 +9,7 @@ npm install --save @spectrum/ra-language-korean
 # Usage
 ```
 import koreanMessages from 'ra-language-korean';
-import polyglotI18nProvider from 'ra-i18n-polyglot';
+import polyglotI18nProvider from '@spectrum/ra-i18n-polyglot';
 
 const messages = {
     'ko': koreanMessages,

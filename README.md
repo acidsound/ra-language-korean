@@ -3,7 +3,7 @@ Korean Messages for React-Admin, the frontend framework for building admin appli
 
 # Installation
 ```
-npm install --save ra-language-korean
+npm install --save @spectrum/ra-language-korean
 ```
 
 # Usage

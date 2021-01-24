@@ -28,7 +28,7 @@ module.exports = {
         boolean: {
             true: '네',
             false: '아니오',
-            null: '',
+            null: ' ',
         },
         page: {
             create: '%{name} 만들기',

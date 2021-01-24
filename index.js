@@ -22,8 +22,11 @@ module.exports = {
             show: '보기',
             sort: '정렬',
             undo: '되돌리기',
+            unselect: '선택 취소',
             expand: '펼치기',
             close: '닫기',
+            open_menu: '메뉴 열기',
+            close_menu: '메뉴 닫기',
         },
         boolean: {
             true: '네',
@@ -84,6 +87,8 @@ module.exports = {
             not_found:
                 'URL을 잘못 입력하거나 올바르지 않은 링크입니다.',
             yes: '네',
+            unsaved_changes:
+                "일부 변경사항이 저장되지 않았습니다. 무시하시겠습니까?",
         },
         navigation: {
             no_results: '결과를 찾을 수 없습니다.',
@@ -96,6 +101,11 @@ module.exports = {
             page_rows_per_page: '페이지당 행 수:',
             next: '다음',
             prev: '이전',
+        },
+        sort: {
+            sort_by: '%{field} %{order}으로 정렬',
+            ASC: '오름차순',
+            DESC: '내림차순',
         },
         auth: {
             auth_check_error: '계속하기 위해 로그인 하십시오',

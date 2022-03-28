@@ -101,6 +101,7 @@ module.exports = {
             page_rows_per_page: '페이지당 행 수:',
             next: '다음',
             prev: '이전',
+            skip_nav: '콘텐츠로 건너뛰기',
         },
         sort: {
             sort_by: '%{field} %{order}으로 정렬',

@@ -4,7 +4,7 @@ module.exports = {
             add_filter: '필터 추가',
             add: '추가',
             back: '뒤로가기',
-            bulk_actions: '1개 항목 선택됨 |||| %{smart_count} 개 항목 선택됨',
+            bulk_actions: '%{smart_count} 개 항목 선택됨',
             cancel: '취소',
             clear_input_value: '값 지우기',
             clone: '복제',
@@ -73,9 +73,9 @@ module.exports = {
             about: '소개',
             are_you_sure: '확실합니까?',
             bulk_delete_content:
-                '이 %{name}?을 지우시겠습니까? |||| 이 %{smart_count} 개의 항목들을 지우시겠습니까?',
+                '이 %{smart_count} 개의 항목들을 지우시겠습니까?',
             bulk_delete_title:
-                '%{name} 삭제 |||| %{smart_count}개의 %{name} 삭제',
+                '%{smart_count}개의 %{name} 삭제',
             delete_content: '이 항목을 삭제하시겠습니까?',
             delete_title: '%{name} #%{id} 삭제',
             details: '자세히',
@@ -118,9 +118,9 @@ module.exports = {
             logout: '로그아웃',
         },
         notification: {
-            updated: '항목 업데이트 |||| %{smart_count}개 행목 업데이트',
+            updated: '%{smart_count}개 항목 업데이트',
             created: '항목 생성',
-            deleted: '항목 삭제 |||| %{smart_count}개 항목 삭제',
+            deleted: '%{smart_count}개 항목 삭제',
             bad_item: '부정확한 항목',
             item_doesnt_exist: '항목이 없습니다',
             http_error: '서버 통신 오류',

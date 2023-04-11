@@ -1,4 +1,6 @@
-module.exports = {
+import { TranslationMessages } from 'ra-core';
+
+const koreanMessage: TranslationMessages = {
     ra: {
         action: {
             add_filter: '필터 추가',
@@ -143,4 +145,6 @@ module.exports = {
             regex: '반드시 지정한 형식(regexp)이어야 합니다 : %{pattern}',
         },
     },
-};
+}
+
+export default koreanMessage;

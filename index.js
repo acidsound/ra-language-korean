@@ -1,6 +1,4 @@
-import { TranslationMessages } from 'ra-core';
-
-const koreanMessage: TranslationMessages = {
+module.exports = {
   ra: {
     action: {
       add_filter: '필터 추가',
@@ -196,5 +194,3 @@ const koreanMessage: TranslationMessages = {
     },
   },
 };
-
-export default koreanMessage;

@@ -19,11 +19,5 @@
   "bugs": {
     "url": "https://github.com/acidsound/ra-language-korean/issues"
   },
-  "homepage": "https://github.com/acidsound/ra-language-korean#readme",
-  "devDependencies": {
-    "typescript": "^5.0.4"
-  },
-  "dependencies": {
-    "ra-core": "^4.9.2"
-  }
+  "homepage": "https://github.com/acidsound/ra-language-korean#readme"
 }
